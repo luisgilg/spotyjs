@@ -40,3 +40,6 @@ jspm_packages
 /dist
 
 *.mp3
+*.tmp
+youtube-tracks.bk.json
+youtube-tracks.json
