@@ -29,7 +29,10 @@
     "ffmpeg-static": "^2.0.0",
     "fluent-ffmpeg": "^2.1.0",
     "lodash": "^4.17.4",
+    "musicmetadata": "^2.0.5",
+    "node-id3": "0.0.9",
     "request": "^2.80.0",
+    "walk": "^2.3.9",
     "ytdl-core": "^0.10.0"
   }
 }

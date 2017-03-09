@@ -71,7 +71,7 @@ module.exports={
             key:API_KEY
         }
 
-        var uri = 'https://www.googleapis.com/youtube/v3/search' + '?' +  querystring.stringify(params);
+        var uri = 'https://www.googleapis.com/youtube/v3/search?' +  querystring.stringify(params);
 
         request.get(uri,(err,res,body)=>{
             if (err) return console.log(err);
